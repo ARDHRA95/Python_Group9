@@ -2,7 +2,6 @@
 
 # Data Storage and Website Presentation
 This project is designed to gather data, store it within a SQLite database, and present it using a Flask-based website. The website provides simple formatting and incorporates an About page that offers details regarding the data source and variable definitions.
-
 ## Table of Contents
 - Data Source
 - Database
